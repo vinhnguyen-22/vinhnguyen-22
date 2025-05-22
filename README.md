@@ -14,3 +14,7 @@
 <a href="https://github.com/vinhnguyen-22/RILA-Web-NextJs">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vinhnguyen-22&repo=RILA-Web-NextJs&theme=radical" />
 </a> 
+
+<a href="https://github.com/vinhnguyen-22/100-Project-Data-Analysis">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vinhnguyen-22&repo=100-Project-Data-Analysis&theme=radical" />
+</a> 
