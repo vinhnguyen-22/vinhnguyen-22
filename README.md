@@ -14,7 +14,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vinhnguyen-22&repo=100-Project-Data-Analysis&theme=radical" />
 </a> 
 <a href="https://github.com/vinhnguyen-22/Scrapping-FMCG-Tool">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Scrapping-FMCG-Tool&repo=Scrapping-FMCG-Tool&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vinhnguyen-22&repo=Scrapping-FMCG-Tool&theme=radical" />
 </a> 
 <a href="https://github.com/vinhnguyen-22/RILA-Web-NextJs">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vinhnguyen-22&repo=RILA-Web-NextJs&theme=radical" />
